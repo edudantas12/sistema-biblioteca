@@ -44,7 +44,7 @@ sistema_biblioteca/
 Clone o repositório:
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/edudantas12/sistema-biblioteca.git
 ```
 
 Entre na pasta:
